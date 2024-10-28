@@ -1,3 +1,8 @@
+_Note: add environment:_
+````env
+NODE_ENV=test
+````
+
 **My solution:**
 
 # Functional Tests
